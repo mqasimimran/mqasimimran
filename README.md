@@ -33,11 +33,15 @@
 ---
 
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mqasimimran&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Qasim's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mqasimimran&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Qasim's Languages" />
-  <br/>
+<div align="center">
+
+| **General Statistics** | **Most Used Languages** |
+| :---: | :---: |
+| <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mqasimimran&show_icons=true&theme=tokyonight&hide_border=true&v=2" width="400" alt="Stats" /> | <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mqasimimran&layout=compact&theme=tokyonight&hide_border=true&v=2" width="400" alt="Languages" /> |
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mqasimimran&theme=tokyonight&hide_border=true&v=2" alt="Streak" />
+
+</div>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mqasimimran&theme=tokyonight&hide_border=true&v=1" alt="Qasim's Streak" />
 </p>
