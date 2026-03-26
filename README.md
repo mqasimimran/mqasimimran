@@ -1,4 +1,16 @@
+# Asalam-u-Alikum I'm Muhammad Qasim Imran.👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Unity+Game+Developer;Graphic+Designer;Technical+Content+Creator" alt="Typing SVG" />
+</p>
+
+---
+
+### 🚀 About Me
+- 🔭 **Current Focus:** Building interactive environments and optimizing C# scripts for performance.
+- 🌱 **Growth Mindset:** Deepening my knowledge of Design Patterns and Machine Learning integration.
+- 💬 **Ask me about:** Game mechanics, minimalist brand identity, or technical storytelling.
+- 📫 **Let's Connect:** qasimshibli12@gmail.com
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mqasimimran1) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/s8qFRYh9) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/qasim.imran.96780) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.qasim_imran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-qasim-imran) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/qasimshibli12) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Qasim-Imran) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qasimshibli12@gmail.com) 
 
