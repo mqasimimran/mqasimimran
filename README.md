@@ -42,9 +42,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mqasimimran&theme=tokyonight&hide_border=true&v=2" alt="Streak" />
 
 </div>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mqasimimran&theme=tokyonight&hide_border=true&v=1" alt="Qasim's Streak" />
-</p>
 
 ---
 
