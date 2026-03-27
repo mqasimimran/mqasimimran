@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-qasim-imran"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://behance.net/mqasimimran1"><img src="https://img.shields.io/badge/Behance-%231769ff.svg?style=flat-square&logo=behance&logoColor=white" alt="Behance"></a>
+  <a href="[https://behance.net/mqasimimran1](https://muhammadqasimimran1.myportfolio.com/)"><img src="https://img.shields.io/badge/Behance-%231769ff.svg?style=flat-square&logo=behance&logoColor=white" alt="Behance"></a>
   <a href="https://instagram.com/m.qasim_imran"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:qasimshibli12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
