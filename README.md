@@ -21,19 +21,7 @@
 
 ---
 
-### 🏆 Achievement Unlocked
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mqasimimran&theme=tokyonight&no-bg=true&margin-w=15&column=4&v=5" alt="Trophies" />
-</p>
 
----
-
-### 🐍 Contribution Journey
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mqasimimran/mqasimimran/output/github-contribution-grid-snake.svg?v=5" alt="Snake Animation" />
-</p>
-
----
 
 ### 🚀 At a Glance
 - 🔭 **Expertise:** Crafting high-performance C# scripts and immersive environments in **Unity**.
