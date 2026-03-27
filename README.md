@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
+  <a href="https://muhammadqasimimran1.myportfolio.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=adobeportfolio&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/muhammad-qasim-imran"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://muhammadqasimimran1.myportfolio.com/"><img src="https://img.shields.io/badge/Behance-%231769ff.svg?style=flat-square&logo=behance&logoColor=white" alt="Behance"></a>
+  <a href="https://www.youtube.com/@QasimDevelops"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://instagram.com/m.qasim_imran"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:qasimshibli12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -14,10 +15,10 @@
 ---
 
 ### 🚀 At a Glance
-- 🔭 **Focusing on:** High-performance C# scripting and immersive Unity environments.
-- 🌱 **Learning:** Bridging the gap between Machine Learning and Game Mechanics.
-- 🎨 **Design Philosophy:** Clean, minimalist, and user-centric brand identities.
-- 💬 **Ask me about:** Why game feel matters and how to simplify complex tech for beginners.
+- 🔭 **Expertise:** Crafting high-performance C# scripts and immersive environments in **Unity**.
+- 🌱 **Innovation:** Exploring the intersection of **Machine Learning** and interactive gameplay.
+- 🎨 **Design:** Creating minimalist, impactful brand identities and professional visual assets.
+- 💬 **Ask me about:** Game feel, UI/UX for games, or simplifying tech for student creators.
 
 ---
 
@@ -32,14 +33,14 @@
 
 ---
 
-# 📊 GitHub Stats:
+### 📊 GitHub Ecosystem
 <div align="center">
 
 | **General Statistics** | **Most Used Languages** |
 | :---: | :---: |
-| <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mqasimimran&show_icons=true&theme=tokyonight&hide_border=true&v=2" width="400" alt="Stats" /> | <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mqasimimran&layout=compact&theme=tokyonight&hide_border=true&v=2" width="400" alt="Languages" /> |
+| <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mqasimimran&show_icons=true&theme=tokyonight&hide_border=true&v=3" width="400" alt="Stats" /> | <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mqasimimran&layout=compact&theme=tokyonight&hide_border=true&v=3" width="400" alt="Languages" /> |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mqasimimran&theme=tokyonight&hide_border=true&v=2" alt="Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mqasimimran&theme=tokyonight&hide_border=true&v=3" alt="Streak" />
 
 </div>
 
